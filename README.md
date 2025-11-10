@@ -197,7 +197,9 @@ Our study focused on English tweets; future work will expand to multilingual ana
 In conclusion, this framework provides a powerful, general tool for computational social science and public policy, offering an unprecedented, integrated view of what the public is talking about, how they feel, and how these changes over time and space.
 
 
+# 7. Citation
 
+If you use this repository, please cite: Yahia, A. (2025). Emerging Knowledge Discovery on Twitter: A Hybrid Framework of Transformers, Topic Models, and LLMs.
 
 
 
